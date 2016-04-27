@@ -13,4 +13,4 @@ A collection of my completed projects.
 #### Python
 
 * Built a [GUI](/Python/HTML-generator-GUI-db/) that allows the user to create/edit the body of an HTML page, save alternate versions in a database and access them at will, and then publish the chosen body text to a web browser
-* Made a [twitter bot](https://twitter.com/wordmills) that tweets Don Quixote one line at a time
+* Made a <a href="https://twitter.com/wordmills" target="_blank">twitter bot</a> that tweets Don Quixote one line at a time
