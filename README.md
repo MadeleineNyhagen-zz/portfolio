@@ -9,3 +9,7 @@ A collection of my completed projects.
 #### SQL
 
 * Built a [library database](/SQL/SQL-Library-Drill) in Microsoft SQL Server
+
+#### Python
+
+* Built a [GUI](/Python/HTML-generator-GUI-db/) that allows the user to create/edit the body of an HTML page, save alternate versions in a database and access them at will, and then publish the chosen body text to a web browser.
