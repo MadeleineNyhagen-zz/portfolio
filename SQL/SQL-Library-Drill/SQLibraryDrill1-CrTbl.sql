@@ -1,6 +1,12 @@
-USE dbLibrary
+USE master
 GO
 
+IF EXISTS (SELECT * FROM sys.databases WHERE name ='dbLibrary')
+DROP DATABASE dbLibrary
+GO
+
+USE dbLibrary
+GO
 
 
 CREATE TABLE Book (BookID INT NOT NULL PRIMARY KEY,
